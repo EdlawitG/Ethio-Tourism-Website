@@ -29,7 +29,7 @@ const Explore = () => {
             </h2>
             <Link
               to="/about"
-              className="bg-[#AF3700] text-white rounded-lg flex gap-2 px-4 py-2 md:px-5 md:py-3 items-center"
+              className=" text-[#AF3700] rounded-lg flex gap-2 px-4 py-2 md:px-5 md:py-3 items-center"
             >
               <svg
                 className="w-5 h-5 md:w-6 md:h-6"

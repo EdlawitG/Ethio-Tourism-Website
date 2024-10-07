@@ -1,7 +1,7 @@
 import { BrowserRouter, Route, Routes } from "react-router-dom"
-import Home from "./Home"
-import AboutUs from "./Aboutus"
-import Explore from "./Explore"
+import Home from "./component/Home"
+import AboutUs from "./component/Aboutus"
+import Explore from "./component/Explore"
 
 function App() {
 
